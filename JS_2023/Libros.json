@@ -1,0 +1,185 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Cien años de soledad",
+        "img":"",
+        "precio": 3500,
+        "stock": 10,
+        "categoria": "Ficción",
+        "autor": "Gabriel García Márquez"
+      },
+      {
+        "id": 2,
+        "nombre": "El principito",
+        "img":"",
+        "precio": 2500,
+        "stock": 5,
+        "categoria": "Infantil",
+        "autor": "Antoine de Saint-Exupéry"
+      },
+      {
+        "id": 3,
+        "nombre": "1984",
+        "img":"",
+        "precio": 4000,
+        "stock": 8,
+        "categoria": "Ciencia ficción",
+        "autor": "George Orwell"
+      },
+      {
+        "id": 4,
+        "nombre": "Harry Potter y la piedra filosofal",
+        "img":"",
+        "precio": 5500,
+        "stock": 12,
+        "categoria": "Fantasía",
+        "autor": "J.K. Rowling"
+      },
+      {
+        "id": 5,
+        "nombre": "Don Quijote de la Mancha",
+        "img":"",
+        "precio": 3000,
+        "stock": 3,
+        "categoria": "Clásicos",
+        "autor": "Miguel de Cervantes"
+      },
+      {
+        "id": 6,
+        "nombre": "Orgullo y prejuicio",
+        "img":"",
+        "precio": 3800,
+        "stock": 6,
+        "categoria": "Romance",
+        "autor": "Jane Austen"
+      },
+      {
+        "id": 7,
+        "nombre": "Matar a un ruiseñor",
+        "img":"",
+        "precio": 4200,
+        "stock": 2,
+        "categoria": "Drama",
+        "autor": "Harper Lee"
+      },
+      {
+        "id": 8,
+        "nombre": "El señor de los anillos",
+        "img":"",
+        "precio": 8000,
+        "stock": 9,
+        "categoria": "Fantasía",
+        "autor": "J.R.R. Tolkien"
+      },
+      {
+        "id": 9,
+        "nombre": "Crónicas de una muerte anunciada",
+        "img":"",
+        "precio": 3200,
+        "stock": 7,
+        "categoria": "Ficción",
+        "autor": "Gabriel García Márquez"
+      },
+      {
+        "id": 10,
+        "nombre": "El alquimista",
+        "img":"",
+        "precio": 4500,
+        "stock": 4,
+        "categoria": "Autoayuda",
+        "autor": "Paulo Coelho"
+      },
+      {
+        "id": 11,
+        "nombre": "El código Da Vinci",
+        "img":"",
+        "precio": 6500,
+        "stock": 11,
+        "categoria": "Misterio",
+        "autor": "Dan Brown"
+      },
+      {
+        "id": 12,
+        "nombre": "El amor en los tiempos del cólera",
+        "img":"",
+        "precio": 4800,
+        "stock": 15,
+        "categoria": "Romance",
+        "autor": "Gabriel García Márquez"
+      },
+      {
+        "id": 13,
+        "nombre": "Drácula",
+        "img":"",
+        "precio": 5200,
+        "stock": 6,
+        "categoria": "Terror",
+        "autor": "Bram Stoker"
+      },
+      {
+        "id": 14,
+        "nombre": "Sapiens: De animales a dioses",
+        "img":"",
+        "precio": 5500,
+        "stock": 8,
+        "categoria": "No ficción",
+        "autor": "Yuval Noah Harari"
+      },
+      {
+        "id": 15,
+        "nombre": "El retrato de Dorian Gray",
+        "img":"",
+        "precio": 4200,
+        "stock": 3,
+        "categoria": "Clásicos",
+        "autor": "Oscar Wilde"
+      },
+      {
+        "id": 16,
+        "nombre": "Los juegos del hambre",
+        "img":"",
+        "precio": 4800,
+        "stock": 9,
+        "categoria": "Ciencia ficción",
+        "autor": "Suzanne Collins"
+      },
+      {
+        "id": 17,
+        "nombre": "It",
+        "img":"",
+        "precio": 7500,
+        "stock": 5,
+        "categoria": "Terror",
+        "autor": "Stephen King"
+      },
+      {
+        "id": 18,
+        "nombre": "El perfume",
+        "img":"",
+        "precio": 3900,
+        "stock": 6,
+        "categoria": "Drama",
+        "autor": "Patrick Süskind"
+      },
+      {
+        "id": 19,
+        "nombre": "Los pilares de la Tierra",
+        "img":"",
+        "precio": 6800,
+        "stock": 7,
+        "categoria": "Histórico",
+        "autor": "Ken Follett"
+      },
+      {
+        "id": 20,
+        "nombre": "El nombre del viento",
+        "img":"",
+        "precio": 5900,
+        "stock": 4,
+        "categoria": "Fantasía",
+        "autor": "Patrick Rothfuss"
+      }
+    ]
+  }
+  
